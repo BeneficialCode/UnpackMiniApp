@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnpackMiniApp", "UnpackMiniApp.csproj", "{F780A441-EC9E-492B-AF4B-EB4222DDCA5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F780A441-EC9E-492B-AF4B-EB4222DDCA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F780A441-EC9E-492B-AF4B-EB4222DDCA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F780A441-EC9E-492B-AF4B-EB4222DDCA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F780A441-EC9E-492B-AF4B-EB4222DDCA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {622A7799-85C6-46B6-AA9E-59ADD3C2F676}
+	EndGlobalSection
+EndGlobal
